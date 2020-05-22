@@ -1,0 +1,11 @@
+
+view {
+    box-sizing: border-box;
+}
+
+image {
+    @include size(100%, 100%)
+}
+.placeholder{
+    font-size: 28rpx;
+}
